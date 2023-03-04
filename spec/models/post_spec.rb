@@ -21,7 +21,9 @@ RSpec.describe Post, type: :model do
   end
 
   it 'updates the author posts_counter after save' do
-    expect { user.posts.create(title: 'Test Post', comments_counter:0, likes_counter: 0) }.to change { user.reload.posts_counter }.from(0).to(1)
+    expect { user.posts.create(title: 'Test Post', comments_counter: 0, likes_counter: 0) }.to change {
+                                                                                                 user.reload.posts_counter
+                                                                                               }.from(0).to(1)
   end
 
   describe '#recent_comments' do
