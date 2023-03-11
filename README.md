@@ -3,15 +3,16 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-    - [🛠 Built With](#built-with)
-        - [Tech Stack](#tech-stack)
-        - [Key Features](#key-features)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-    - [Setup](#setup)
-    - [Prerequisites](#prerequisites)
-    - [Install](#install)
-    - [Usage](#usage)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -50,8 +51,6 @@
 - **Like posts**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -83,7 +82,6 @@ Install this project with:
   bundle install
 ```
 
-
 ### Usage
 
 To run the project, execute the following command:
@@ -92,6 +90,7 @@ To run the project, execute the following command:
   systemctl start docker
   docker-compose up -d
 ```
+
 ```sh
   rails server
 ```
@@ -106,6 +105,17 @@ To run the project, execute the following command:
 
 - GitHub: [Github Profile](https://github.com/z4cope)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mookhaled)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [Authintication] **[Authintication]**
+- [Authorization] **[Authorization]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,12 +145,10 @@ I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
